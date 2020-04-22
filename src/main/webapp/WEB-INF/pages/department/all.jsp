@@ -17,7 +17,7 @@
     </head>
     <body>
         <div class="container">
-            <%@include file="../../../template/header.jsp" %>
+            <%@include file="../template/header.jsp" %>
             <div class="row">
                 <div class="span12">
                     <div class="head">
@@ -60,7 +60,7 @@
                 </tbody>
             </table>
 
-            <%@include file="../../../template/footer.jsp" %>
+            <%@include file="../template/footer.jsp" %>
         </div>
     </body>
 </html>

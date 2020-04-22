@@ -21,7 +21,7 @@
     </head>
     <body>
         <div class="container">
-            <%@include file="../../../template/header.jsp" %>
+            <%@include file="../template/header.jsp" %>
             <div class="well">
                 <div id="myTabContent" class="tab-content">
                     <div class="tab-pane active in" id="home">
@@ -49,7 +49,7 @@
             </div>
 
 
-            <%@include file="../../../template/footer.jsp" %>
+            <%@include file="../template/footer.jsp" %>
         </div>
     </body>
 </html>

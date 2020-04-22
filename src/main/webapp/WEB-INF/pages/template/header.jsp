@@ -12,7 +12,7 @@
         <title>Header</title>
     </head>
     <body>    
-        <%@include file="../../../template/menu.jsp" %>
+        <%@include file="menu.jsp" %>
         <div class="container">
             <div class="row">
                 <div class="span12">

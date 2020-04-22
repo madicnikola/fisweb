@@ -13,10 +13,10 @@
     </head>
     <body>
         <div class="container">
-            <%@include file="../../../template/header.jsp" %>
+            <%@include file="../template/header.jsp" %>
             <h1>This is default error page!</h1>
             <h2>${message}</h2>
-            <%@include file="../../../template/footer.jsp" %>
+            <%@include file="../template/footer.jsp" %>
         </div>
     </body>
 </html>
